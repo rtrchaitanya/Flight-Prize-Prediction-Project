@@ -1,7 +1,5 @@
 # Flight Tickets Price Prediction
 
-![Airplane](https://example.com/airplane_image.jpg)
-
 Welcome to our Flight Tickets Price Prediction project repository! In this ML project, we aim to develop a predictive model that accurately estimates flight ticket prices. The ability to forecast ticket prices can significantly benefit both customers and the airline industry. For travellers, it provides an estimation of the cost, allowing them to plan their trips more effectively. For airlines, it helps with pricing strategies, revenue management, and understanding customer behavior.
 
 ## Table of Contents
